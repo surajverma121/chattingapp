@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971810648198",
+    "project_id": "newp-27869",
+    "storage_bucket": "newp-27869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971810648198:android:79666d714123f3c1846107",
+        "android_client_info": {
+          "package_name": "com.example.newp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANyze8Hw9LXk-MmwTsu7tLYxmoabDyZ-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
